@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    text-decoration: none;
+    font-family: cursive;
+}
+h1:hover{
+    color: rgb(152, 9, 228);
+}
+form{
+    background-color: rgb(92, 21, 111);
+    background-size: 100%;
+    font-family: cursive;
+    padding-bottom: 3%;
+    border-color: rgb(152, 130, 163);
+    border-style: solid;
+    padding-left: 20px;
+}
+.btn{
+    border-style: ridge;
+    padding: 3%;
+    color: rgb(2, 53, 53);
+    border-radius: 5px;
+}
+.btn:hover{
+    color: rgb(152, 9, 228);
+}
+body{
+    background-color: rgb(92, 21, 111);
+    color: rgb(255, 255, 255);
+}
+.mid, .container{
+    font-family: cursive;
+    word-spacing: 3px;
+}
